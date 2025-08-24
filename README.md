@@ -16,8 +16,12 @@ All assets are free online. Had to mix and match some so it might not all look c
   - Interaction pop up near interactable objects. UI button appears and faces the player always. Uses a sphere colider to display the button when the player is in the collision and makes it disappear when they are outside of it.
 
 [![Watch the video](https://img.youtube.com/vi/NpfF7qOesGQ/0.jpg)](https://www.youtube.com/watch?v=NpfF7qOesGQ)
-    
-  
+
+- Item Interaction Pick Up Player HUD and Inventory
+  - Player is able to pick up items. Items are highlighted with an outline when they are interactable. The items also use the interaction prompt in the previous video. Items are added to the player inventory currently displayed on the player hud for simplicity. I've set an item limit for each item. 3 for lightning. 2 for shield. Ignore the names and images, just using free stuff and whats available on me. Added a slide on notification when picking up an item. Current issues with the prompt staying one time after limit is reached for every item of that type. Has something to do with the sphere collision on overlap.
+
+[![Watch the video](https://img.youtube.com/vi/BmbGIg3tc1o/0.jpg)](https://www.youtube.com/watch?v=BmbGIg3tc1o)    
+
 ---
 
 ### Tonya Shulkey
