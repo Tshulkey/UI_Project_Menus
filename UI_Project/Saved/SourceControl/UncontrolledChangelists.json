@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tshul/Desktop/Game_Project/UI_Project_Menus/UI_Project/Content/UI/W_PlayerHud.uasset",
+				"C:/Users/tshul/Desktop/Game_Project/UI_Project_Menus/UI_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tshul/Desktop/Game_Project/UI_Project_Menus/UI_Project/Content/T_Blueprint/Actors/BP_Lightning.uasset",
+				"C:/Users/tshul/Desktop/Game_Project/UI_Project_Menus/UI_Project/Content/T_Blueprint/Actors/BP_MasterItems.uasset",
 				"C:/Users/tshul/OneDrive/Desktop/Game_Project/UI_Project_Menus/UI_Project/Content/UI/Interactable_Prompt/BP_Interactable.uasset",
 				"C:/Users/tshul/OneDrive/Desktop/Game_Project/UI_Project_Menus/UI_Project/Content/UI/BP_Interactable.uasset",
 				"C:/Users/tshul/OneDrive/Desktop/Game_Project/UI_Project_Menus/UI_Project/Content/UI/Interactable_Prompt/T_P5_Square_Light.uasset",
