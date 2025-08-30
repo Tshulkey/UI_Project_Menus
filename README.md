@@ -26,6 +26,8 @@ All assets are free online. Had to mix and match some so it might not all look c
   - Player is damaged by fire and can pick up medkits (the target assets) to heal. Player health bar is displayed on the player hud top left. I may need to tweak the colors, but I wanted to use a nice asset instead of a simple bar. I also want to change the color depending on how low the health is and add an animation of how much the player got hurt with a red bar. Still using the Master Item class for medkits but tweakingn ismaxlimit to fit in the health sense.
     
 [![Watch the video](https://img.youtube.com/vi/TC5NQlWiKh0/0.jpg)](https://www.youtube.com/watch?v=TC5NQlWiKh0)  
+[![Watch the video](https://img.youtube.com/vi/wgNx9HGBlvg/0.jpg)](https://www.youtube.com/watch?v=wgNx9HGBlvg)  
+
 
 ---
 
