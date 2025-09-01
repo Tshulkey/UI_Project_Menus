@@ -28,6 +28,11 @@ All assets are free online. Had to mix and match some so it might not all look c
 [![Watch the video](https://img.youtube.com/vi/TC5NQlWiKh0/0.jpg)](https://www.youtube.com/watch?v=TC5NQlWiKh0)  
 [![Watch the video](https://img.youtube.com/vi/0EnAuQAaqy0/0.jpg)](https://www.youtube.com/watch?v=0EnAuQAaqy0)  
 
+- Settings Menu and Master Volume Adjuster
+  - Players can pause their game to take a break, adjust settings, or quit the game. For now the settings is only for the master volume.
+ 
+[![Watch the video](https://img.youtube.com/vi/Rh7QP0OZZCY/0.jpg)](https://www.youtube.com/watch?v=Rh7QP0OZZCY)  
+
 
 ---
 
